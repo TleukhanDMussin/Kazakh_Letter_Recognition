@@ -1,6 +1,6 @@
 # Kazakh Character Detection Using YOLO
 
-This repository contains code for training and evaluating a **YOLO-based object detection model** for detecting Kazakh characters from images. The project was presented at **SII 2024** and is based on an older release of the Allegro Hand ROS package.
+This repository contains code for training and evaluating a **YOLO-based object detection model** for detecting Kazakh characters from images. The project was implemented for ELCE 455 (Machine Learning) course.
 
 ## Project Overview
 
