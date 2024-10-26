@@ -52,15 +52,15 @@ The dataset used for training and validation consists of grayscale images of han
   - `val/images`: Path to validation images.
   - `test/images` (optional): Path to test images.
 - **Classes**: The dataset contains the following classes:
-  1. ae
-  2. gh
-  3. h
-  4. ii
-  5. kh
-  6. nh
-  7. oe
-  8. uh
-  9. uu
+  1. ә
+  2. ғ
+  3. һ
+  4. і
+  5. қ
+  6. ң
+  7. ө
+  8. ұ
+  9. ү
 
 ### Example `Jamilya.yaml` File
 ```yaml
