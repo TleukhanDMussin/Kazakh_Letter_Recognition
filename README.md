@@ -33,8 +33,8 @@ The purpose of this project is to detect and classify handwritten Kazakh charact
 ### Install Dependencies
 First, clone the repository:
 ```bash
-git clone https://github.com/your-username/Kazakh-YOLO.git
-cd Kazakh-YOLO
+git clone https://github.com/your-username/Kazakh_Letter_Recognition.git
+cd Kazakh_Letter_Recognition.git
 ```
 
 Install the dependencies using pip:
