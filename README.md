@@ -45,6 +45,7 @@ pip install -r requirements.txt
 This will install the necessary libraries, including PyTorch, OpenCV, and the YOLO package by Ultralytics.
 
 ## Dataset
+You can download the dataset in from "dataset" folder. We have collected 250 images with 9 classes.
 
 The dataset used for training and validation consists of grayscale images of handwritten Kazakh characters. The dataset structure is defined in the **`Jamilya.yaml`** file:
 - **Train/Val/Test Paths**:
