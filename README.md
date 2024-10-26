@@ -62,27 +62,6 @@ The dataset used for training and validation consists of grayscale images of han
   8. ұ
   9. ү
 
-### Example `Jamilya.yaml` File
-```yaml
-path: D:\JamilyaYOLO\Kazakh_Dataset_Gray\
-train: train\images
-val: val\images
-test: test\images
-
-names:
-  0: ae
-  1: gh
-  2: h
-  3: ii
-  4: kh
-  5: nh
-  6: oe
-  7: uh
-  8: uu
-```
-
-## Usage
-
 ### Training
 To train the YOLO model on the custom Kazakh character dataset, use the provided **`train.py`** script:
 ```bash
