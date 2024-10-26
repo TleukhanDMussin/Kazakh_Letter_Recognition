@@ -4,7 +4,7 @@ This repository contains code for training and evaluating a **CNN and YOLO-based
 
 ## Project Overview
 
-The purpose of this project is to detect and classify handwritten Kazakh characters using the CNN and YOLO algorithm. The model has been trained to recognize multiple characters, including those specific to the Kazakh language. It uses a modified YOLO model tailored for detecting grayscale images of handwritten characters.
+The purpose of this project is to detect and classify handwritten Kazakh characters using the CNN and YOLO algorithm. The model has been trained to recognize multiple characters, including those specific to the Kazakh language. It uses CNN for detecting grayscale images of handwritten characters and a modified YOLO model for recognizing individual letters from the combination of words.
 
 ### Key Features
 - **Custom YOLO Implementation**: Uses YOLO for efficient and accurate object detection.
