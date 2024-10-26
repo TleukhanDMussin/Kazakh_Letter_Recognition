@@ -1,10 +1,10 @@
 # Kazakh Character Detection Using YOLO
 
-This repository contains code for training and evaluating a **YOLO-based object detection model** for detecting Kazakh characters from images. The project was implemented for ELCE 455 (Machine Learning) course.
+This repository contains code for training and evaluating a **CNN and YOLO-based object detection model** for detecting Kazakh characters from images. The project was implemented for ELCE 455 (Machine Learning) course.
 
 ## Project Overview
 
-The purpose of this project is to detect and classify handwritten Kazakh characters using the YOLO algorithm. The model has been trained to recognize multiple characters, including those specific to the Kazakh language. It uses a modified YOLO model tailored for detecting grayscale images of handwritten characters.
+The purpose of this project is to detect and classify handwritten Kazakh characters using the CNN and YOLO algorithm. The model has been trained to recognize multiple characters, including those specific to the Kazakh language. It uses a modified YOLO model tailored for detecting grayscale images of handwritten characters.
 
 ### Key Features
 - **Custom YOLO Implementation**: Uses YOLO for efficient and accurate object detection.
