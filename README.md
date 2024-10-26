@@ -20,7 +20,6 @@ The purpose of this project is to detect and classify handwritten Kazakh charact
   - [Inference](#inference)
 - [Configuration](#configuration)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -120,15 +119,6 @@ The model achieves accurate detection and classification of Kazakh characters wi
 - **mAP (Mean Average Precision)**
 
 These metrics can be visualized using the output logs generated during training.
-
-## Contributing
-
-We welcome contributions to improve the detection accuracy, dataset diversity, or code efficiency. Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ## License
 
